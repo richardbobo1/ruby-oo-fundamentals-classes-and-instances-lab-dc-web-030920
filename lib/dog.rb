@@ -6,3 +6,7 @@ end
 
 snoopy = Dog.new 
 end 
+
+
+lassie = Dog.new 
+end 
